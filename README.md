@@ -236,4 +236,4 @@ This repository serves as the official landing page for Mp3tag. The software is 
 **Get the most recent version of Mp3tag today!**
 
 ---
-**Last updated:** 2026-10-02 18:59:04 UTC
+**Last updated:** 2026-10-02 22:54:44 UTC
